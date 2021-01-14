@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, 2021.
 
-- 🔭 I’m currently working on NOTHING
-- 🌱 I’m currently learning SWIFT
+- 🎙 BiliBili
+- 💻 Independent developer
+- 📚 IELTS
+- 🎓 Doctor
